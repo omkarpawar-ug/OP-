@@ -48,7 +48,6 @@ def main():
     print("Let's take a moment to center your mind.")
     print("Follow the breathing prompts.\n")
     time.sleep(2)
-
     
     try:
         # Run 3 breathing cycles
