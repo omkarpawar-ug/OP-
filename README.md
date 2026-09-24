@@ -1,3 +1,7 @@
 # OP-
-Keep your self calm and clear
+mkdir ckalm-cli
+cd calm-cli
+git init
+touch kalm.py README.md
+
 
